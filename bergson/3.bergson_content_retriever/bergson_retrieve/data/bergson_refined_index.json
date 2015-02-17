@@ -1,0 +1,127 @@
+{
+  "meta" : {
+              "auteur" : "Henri Bergson",
+              "annee" : "1938",
+              "url" : "http://fr.wikisource.org/wiki/Le_Rire._Essai_sur_la_signification_du_comique",
+              "editeur" : "Félix Alcan"
+           },
+  "content" : [
+
+    {
+      "type" : "non-chapter-part",
+      "title" : "Avant-propos",
+      "contents" : [
+                      {
+                        "title": "Avant-propos",
+                        "link": "http://fr.wikisource.org/wiki/Le_Rire._Essai_sur_la_signification_du_comique/Avant-propos"
+                      }
+                    ]
+    },
+    {
+      "type" : "non-chapter-part",
+      "title" : "Préface",
+      "contents" : [
+                      {
+                        "title": "Préface",
+                        "link": "http://fr.wikisource.org/wiki/Le_Rire._Essai_sur_la_signification_du_comique/Pr%C3%A9face"
+                      }
+                    ]
+    },
+    {
+      "type" : "chapter",
+      "title" : "Chapitre I. — Du comique en général. — Le comique des formes et le comique des mouvements. — Force d’expansion du comique.",
+      "contents" : [
+                      {
+                        "title": "Du comique en général.",
+                        "link": "http://fr.wikisource.org/wiki/Le_Rire._Essai_sur_la_signification_du_comique/Chapitre_I._%E2%80%94_Du_comique_en_g%C3%A9n%C3%A9ral."
+                      },
+                      {
+                        "title": "I",
+                        "link": "http://fr.wikisource.org/wiki/Le_Rire._Essai_sur_la_signification_du_comique/Chapitre_I._%E2%80%94_I"
+                      },
+                      {
+                        "title": "II",
+                        "link": "http://fr.wikisource.org/wiki/Le_Rire._Essai_sur_la_signification_du_comique/Chapitre_I._%E2%80%94_II"
+                      },
+                      {
+                        "title": "III",
+                        "link": "http://fr.wikisource.org/wiki/Le_Rire._Essai_sur_la_signification_du_comique/Chapitre_I._%E2%80%94_III"
+                      },
+                      {
+                        "title": "IV",
+                        "link": "http://fr.wikisource.org/wiki/Le_Rire._Essai_sur_la_signification_du_comique/Chapitre_I._%E2%80%94_IV"
+                      },
+                      {
+                        "title": "V",
+                        "link": "http://fr.wikisource.org/wiki/Le_Rire._Essai_sur_la_signification_du_comique/Chapitre_I._%E2%80%94_V"
+                      }
+                    ]
+    },
+
+    {
+      "type" : "chapter",
+      "title" : "Chapitre II. — Le comique de situation et le comique de mots.",
+      "contents" : [
+                      {
+                        "title": "I",
+                        "link": "http://fr.wikisource.org/wiki/Le_Rire._Essai_sur_la_signification_du_comique/Chapitre_II._%E2%80%94_I"
+                      },
+                      {
+                        "title": "I.I. — Le diable à ressort",
+                        "link": "http://fr.wikisource.org/wiki/Le_Rire._Essai_sur_la_signification_du_comique/Chapitre_II._%E2%80%94_I._%E2%80%94_I._%E2%80%94_Le_diable_%C3%A0_ressort"
+                      },
+                      {
+                        "title": "I.II. — Le pantin à ficelles",
+                        "link": "http://fr.wikisource.org/wiki/Le_Rire._Essai_sur_la_signification_du_comique/Chapitre_II._%E2%80%94_I._%E2%80%94_II._%E2%80%94_Le_pantin_%C3%A0_ficelles"
+                      },
+                      {
+                        "title": "I.III. — La boule de neige",
+                        "link": "http://fr.wikisource.org/wiki/Le_Rire._Essai_sur_la_signification_du_comique/Chapitre_II._%E2%80%94_I._%E2%80%94_III._%E2%80%94_La_boule_de_neige"
+                      },
+                      {
+                        "title": "II",
+                        "link": "http://fr.wikisource.org/wiki/Le_Rire._Essai_sur_la_signification_du_comique/Chapitre_II._%E2%80%94_II"
+                      }
+                    ]
+    },
+
+    {
+      "type" : "chapter",
+      "title" : "Chapitre III. — Le comique de caractère.",
+      "contents" : [
+                      {
+                        "title": "I",
+                        "link": "http://fr.wikisource.org/wiki/Le_Rire._Essai_sur_la_signification_du_comique/Chapitre_III._%E2%80%94_I"
+                      },
+                      {
+                        "title": "II",
+                        "link": "http://fr.wikisource.org/wiki/Le_Rire._Essai_sur_la_signification_du_comique/Chapitre_III._%E2%80%94_II"
+                      },
+                      {
+                        "title": "III",
+                        "link": "http://fr.wikisource.org/wiki/Le_Rire._Essai_sur_la_signification_du_comique/Chapitre_III._%E2%80%94_III"
+                      },
+                      {
+                        "title": "IV",
+                        "link": "http://fr.wikisource.org/wiki/Le_Rire._Essai_sur_la_signification_du_comique/Chapitre_III._%E2%80%94_IV"
+                      },
+                      {
+                        "title": "V",
+                        "link": "http://fr.wikisource.org/wiki/Le_Rire._Essai_sur_la_signification_du_comique/Chapitre_III._%E2%80%94_V"
+                      }
+                    ]
+    },
+  
+  
+  {
+      "type" : "non-chapter-part",
+      "title" : "Appendice. — Sur les définitions du comique et sur la méthode suivie dans ce livre.",
+      "contents" : [
+                      {
+                        "title": "Appendice",
+                        "link": "http://fr.wikisource.org/wiki/Le_Rire._Essai_sur_la_signification_du_comique/Appendice"
+                      }
+                    ]
+  }
+]
+}

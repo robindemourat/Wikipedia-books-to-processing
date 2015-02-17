@@ -1,0 +1,12 @@
+artoo.scrape('#ws-summary b,#ws-summary .tableItem', {
+	link : function($){
+		if($(this).find('a').length)
+			return 'http://fr.wikisource.org' + $(this).find('a').attr('href');
+		else return undefined;
+	},
+	title : function($){
+		var text = $(this).text();
+		
+		return text.replace(/[0-9]+/gmi, " ").replace(/(\n)*/, "").trim();
+	}
+}, artoo.savePrettyJson)

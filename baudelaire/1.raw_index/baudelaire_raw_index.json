@@ -1,0 +1,637 @@
+[
+  {
+    "numero": "Au lecteur",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Au_lecteur",
+    "title": "Au lecteur"
+  },
+  {
+    "numero": "I",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/B%C3%A9n%C3%A9diction",
+    "title": "Bénédiction"
+  },
+  {
+    "numero": "II",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/L%E2%80%99Albatros",
+    "title": "L’Albatros"
+  },
+  {
+    "numero": "III",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/%C3%89l%C3%A9vation",
+    "title": "Élévation"
+  },
+  {
+    "numero": "IV",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Correspondances",
+    "title": "Correspondances"
+  },
+  {
+    "numero": "V",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/%C2%AB_J%E2%80%99aime_le_souvenir_de_ces_%C3%A9poques_nues_%C2%BB",
+    "title": "J’aime le souvenir de ces époques nues"
+  },
+  {
+    "numero": "VI",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Les_Phares",
+    "title": "Les Phares"
+  },
+  {
+    "numero": "VII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/La_Muse_malade",
+    "title": "La Muse malade"
+  },
+  {
+    "numero": "VIII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/La_Muse_v%C3%A9nale",
+    "title": "La Muse vénale"
+  },
+  {
+    "numero": "IX",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_Mauvais_Moine",
+    "title": "Le mauvais Moine"
+  },
+  {
+    "numero": "X",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/L%E2%80%99Ennemi",
+    "title": "L’Ennemi"
+  },
+  {
+    "numero": "XI",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_Guignon",
+    "title": "Le Guignon"
+  },
+  {
+    "numero": "XII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/La_Vie_ant%C3%A9rieure",
+    "title": "La Vie antérieure"
+  },
+  {
+    "numero": "XIII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Boh%C3%A9miens_en_voyage",
+    "title": "Bohémiens en voyage"
+  },
+  {
+    "numero": "XIV",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/L%E2%80%99Homme_et_la_Mer",
+    "title": "L’Homme et la Mer"
+  },
+  {
+    "numero": "XV",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Don_Juan_aux_enfers",
+    "title": "Don Juan aux enfers"
+  },
+  {
+    "numero": "XVI",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Ch%C3%A2timent_de_l%E2%80%99orgueil",
+    "title": "Châtiment de l’orgueil"
+  },
+  {
+    "numero": "XVII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/La_Beaut%C3%A9",
+    "title": "La Beauté"
+  },
+  {
+    "numero": "XVIII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/L%E2%80%99Id%C3%A9al",
+    "title": "L’Idéal"
+  },
+  {
+    "numero": "XIX",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/La_G%C3%A9ante",
+    "title": "La Géante"
+  },
+  {
+    "numero": "XX",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_Masque",
+    "title": "Le Masque"
+  },
+  {
+    "numero": "XXI",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Hymne_%C3%A0_la_beaut%C3%A9",
+    "title": "Hymne à la Beauté"
+  },
+  {
+    "numero": "XXII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Parfum_exotique",
+    "title": "Parfum exotique"
+  },
+  {
+    "numero": "XXIII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/La_Chevelure",
+    "title": "La Chevelure"
+  },
+  {
+    "numero": "XXIV",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/%C2%AB_Je_t%E2%80%99adore_%C3%A0_l%E2%80%99%C3%A9gal_de_la_vo%C3%BBte_nocturne_%C2%BB",
+    "title": "Je t’adore à l’égal de la voûte nocturne"
+  },
+  {
+    "numero": "XXV",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/%C2%AB_Tu_mettrais_l%E2%80%99univers_entier_dans_ta_ruelle_%C2%BB",
+    "title": "Tu mettrais l’univers entier dans ta ruelle"
+  },
+  {
+    "numero": "XXVI",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Sed_non_satiata",
+    "title": "Sed non satiata"
+  },
+  {
+    "numero": "XXVII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/%C2%AB_Avec_ses_v%C3%AAtements_ondoyants_et_nacr%C3%A9s_%C2%BB",
+    "title": "Avec ses vêtements ondoyants et nacrés"
+  },
+  {
+    "numero": "XXVIII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_Serpent_qui_danse",
+    "title": "Le Serpent qui danse"
+  },
+  {
+    "numero": "XXIX",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Une_charogne",
+    "title": "Une Charogne"
+  },
+  {
+    "numero": "XXX",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/De_profundis_clamavi",
+    "title": "De profundis clamavi"
+  },
+  {
+    "numero": "XXXI",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_Vampire",
+    "title": "Le Vampire"
+  },
+  {
+    "numero": "XXXII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/%C2%AB_Une_nuit_que_j%E2%80%99%C3%A9tais_pr%C3%A8s_d%E2%80%99une_affreuse_Juive_%C2%BB",
+    "title": "Une nuit que j’étais près d’une affreuse Juive"
+  },
+  {
+    "numero": "XXXIII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Remords_posthume",
+    "title": "Remords posthume"
+  },
+  {
+    "numero": "XXXIV",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_Chat_(%C2%AB_Viens,_mon_beau_chat,_sur_mon_c%C5%93ur_amoureux_%C2%BB)",
+    "title": "Le Chat"
+  },
+  {
+    "numero": "XXXV",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Duellum",
+    "title": "Duellum"
+  },
+  {
+    "numero": "XXXVI",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_Balcon",
+    "title": "Le Balcon"
+  },
+  {
+    "numero": "XXXVII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_Poss%C3%A9d%C3%A9",
+    "title": "Le Possédé"
+  },
+  {
+    "numero": "XXXVIII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Un_Fant%C3%B4me",
+    "title": "Un Fantôme"
+  },
+  {
+    "numero": "XXXIX",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/%C2%AB_Je_te_donne_ces_vers_afin_que_si_mon_nom_%C2%BB",
+    "title": "Je te donne ces vers afin que si mon nom"
+  },
+  {
+    "numero": "XL",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Semper_eadem",
+    "title": "Semper eadem"
+  },
+  {
+    "numero": "XLI",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Tout_enti%C3%A8re",
+    "title": "Tout entière"
+  },
+  {
+    "numero": "XLII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/%C2%AB_Que_diras-tu_ce_soir,_pauvre_%C3%A2me_solitaire_%C2%BB",
+    "title": "Que diras-tu ce soir, pauvre âme solitaire"
+  },
+  {
+    "numero": "XLIII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_Flambeau_vivant",
+    "title": "Le Flambeau vivant"
+  },
+  {
+    "numero": "XLIV",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/R%C3%A9versibilit%C3%A9",
+    "title": "Réversibilité"
+  },
+  {
+    "numero": "XLV",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Confession",
+    "title": "Confession"
+  },
+  {
+    "numero": "XLVI",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/L%E2%80%99Aube_spirituelle",
+    "title": "L’Aube spirituelle"
+  },
+  {
+    "numero": "XLVII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Harmonie_du_soir",
+    "title": "Harmonie du soir"
+  },
+  {
+    "numero": "XLVIII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_Flacon",
+    "title": "Le Flacon"
+  },
+  {
+    "numero": "XLIX",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_Poison",
+    "title": "Le Poison"
+  },
+  {
+    "numero": "L",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Ciel_brouill%C3%A9",
+    "title": "Ciel brouillé"
+  },
+  {
+    "numero": "LI",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_Chat_(%C2%AB_Dans_ma_cervelle_se_prom%C3%A8ne_%C2%BB)",
+    "title": "Le Chat"
+  },
+  {
+    "numero": "LII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_Beau_Navire",
+    "title": "Le beau Navire"
+  },
+  {
+    "numero": "LIII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/L%E2%80%99Invitation_au_voyage",
+    "title": "L’Invitation au voyage"
+  },
+  {
+    "numero": "LIV",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/L%E2%80%99Irr%C3%A9parable",
+    "title": "L’Irréparable"
+  },
+  {
+    "numero": "LV",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Causerie",
+    "title": "Causerie"
+  },
+  {
+    "numero": "LVI",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Chant_d%E2%80%99automne",
+    "title": "Chant d’automne"
+  },
+  {
+    "numero": "LVII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/%C3%80_une_madone",
+    "title": "À une Madone"
+  },
+  {
+    "numero": "LVIII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Chanson_d%E2%80%99apr%C3%A8s-midi",
+    "title": "Chanson d’après-midi"
+  },
+  {
+    "numero": "LIX",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Sisina",
+    "title": "Sisina"
+  },
+  {
+    "numero": "LX",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Franciscae_meae_laudes",
+    "title": "Franciscæ meæ Laudes"
+  },
+  {
+    "numero": "LXI",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/%C3%80_une_dame_cr%C3%A9ole",
+    "title": "À une dame créole"
+  },
+  {
+    "numero": "LXII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Moesta_et_errabunda",
+    "title": "Mœsta et errabunda"
+  },
+  {
+    "numero": "LXIII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_Revenant",
+    "title": "Le Revenant"
+  },
+  {
+    "numero": "LXIV",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Sonnet_d%E2%80%99automne",
+    "title": "Sonnet d’automne"
+  },
+  {
+    "numero": "LXV",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Tristesses_de_la_lune",
+    "title": "Tristesses de la lune"
+  },
+  {
+    "numero": "LXVI",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Les_Chats",
+    "title": "Les Chats"
+  },
+  {
+    "numero": "LXVII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Les_Hiboux",
+    "title": "Les Hiboux"
+  },
+  {
+    "numero": "LXVIII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/La_Pipe",
+    "title": "La Pipe"
+  },
+  {
+    "numero": "LXIX",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/La_Musique",
+    "title": "La Musique"
+  },
+  {
+    "numero": "LXX",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/S%C3%A9pulture",
+    "title": "Sépulture"
+  },
+  {
+    "numero": "LXXI",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Une_gravure_fantastique",
+    "title": "Une Gravure fantastique"
+  },
+  {
+    "numero": "LXXII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_Mort_joyeux",
+    "title": "Le Mort joyeux"
+  },
+  {
+    "numero": "LXXIII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_Tonneau_de_la_haine",
+    "title": "Le Tonneau de la haine"
+  },
+  {
+    "numero": "LXXIV",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/La_Cloche_f%C3%AAl%C3%A9e",
+    "title": "La Cloche fêlée"
+  },
+  {
+    "numero": "LXXV",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Spleen_(%C2%AB_Pluvi%C3%B4se,_irrit%C3%A9_contre_la_ville_enti%C3%A8re_%C2%BB)",
+    "title": "Spleen"
+  },
+  {
+    "numero": "LXXVI",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Spleen_(%C2%AB_J%E2%80%99ai_plus_de_souvenirs_que_si_j%E2%80%99avais_mille_ans_%C2%BB)",
+    "title": "Spleen"
+  },
+  {
+    "numero": "LXXVII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Spleen_(%C2%AB_Je_suis_comme_le_roi_d%E2%80%99un_pays_pluvieux_%C2%BB)",
+    "title": "Spleen"
+  },
+  {
+    "numero": "LXXVIII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Spleen_(%C2%AB_Quand_le_ciel_bas_et_lourd_p%C3%A8se_comme_un_couvercle_%C2%BB)",
+    "title": "Spleen"
+  },
+  {
+    "numero": "LXXIX",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Obsession",
+    "title": "Obsession"
+  },
+  {
+    "numero": "LXXX",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_Go%C3%BBt_du_n%C3%A9ant",
+    "title": "Le Goût du néant"
+  },
+  {
+    "numero": "LXXXI",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Alchimie_de_la_douleur",
+    "title": "Alchimie de la douleur"
+  },
+  {
+    "numero": "LXXXII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Horreur_sympathique",
+    "title": "Horreur sympathique"
+  },
+  {
+    "numero": "LXXXIII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/L%E2%80%99H%C3%A9autontimoroum%C3%A9nos",
+    "title": "L’Héautontimorouménos"
+  },
+  {
+    "numero": "LXXXIV",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/L%E2%80%99Irrem%C3%A9diable",
+    "title": "L’Irremédiable"
+  },
+  {
+    "numero": "LXXXV",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/L%E2%80%99Horloge",
+    "title": "L’Horloge"
+  },
+  {
+    "numero": "LXXXVI",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Paysage",
+    "title": "Paysage"
+  },
+  {
+    "numero": "LXXXVII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_Soleil",
+    "title": "Le Soleil"
+  },
+  {
+    "numero": "LXXXVIII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/%C3%80_une_mendiante_rousse",
+    "title": "À une mendiante rousse"
+  },
+  {
+    "numero": "LXXXIX",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_Cygne",
+    "title": "Le Cygne"
+  },
+  {
+    "numero": "XC",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Les_Sept_Vieillards",
+    "title": "Les sept Vieillards"
+  },
+  {
+    "numero": "XCI",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Les_Petites_Vieilles",
+    "title": "Les petites Vieilles"
+  },
+  {
+    "numero": "XCII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Les_Aveugles",
+    "title": "Les Aveugles"
+  },
+  {
+    "numero": "XCIII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/%C3%80_une_passante",
+    "title": "À une passante"
+  },
+  {
+    "numero": "XCIV",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_Squelette_laboureur",
+    "title": "Le Squelette laboureur"
+  },
+  {
+    "numero": "XCV",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_Cr%C3%A9puscule_du_soir",
+    "title": "Le Crépuscule du soir"
+  },
+  {
+    "numero": "XCVI",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_Jeu",
+    "title": "Le Jeu"
+  },
+  {
+    "numero": "XCVII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Danse_macabre",
+    "title": "Danse macabre"
+  },
+  {
+    "numero": "XCVIII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/L%E2%80%99Amour_du_mensonge",
+    "title": "L’Amour du mensonge"
+  },
+  {
+    "numero": "XCIX",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/%C2%AB_Je_n%E2%80%99ai_pas_oubli%C3%A9,_voisine_de_la_ville_%C2%BB",
+    "title": "Je n’ai pas oublié, voisine de la ville"
+  },
+  {
+    "numero": "C",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/%C2%AB_La_servante_au_grand_c%C5%93ur_dont_vous_%C3%A9tiez_jalouse_%C2%BB",
+    "title": "La servante au grand cœur dont vous étiez jalouse"
+  },
+  {
+    "numero": "CI",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Brumes_et_Pluies",
+    "title": "Brumes et Pluies"
+  },
+  {
+    "numero": "CII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/R%C3%AAve_parisien",
+    "title": "Rêve parisien"
+  },
+  {
+    "numero": "CIII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_Cr%C3%A9puscule_du_matin",
+    "title": "Le Crépuscule du matin"
+  },
+  {
+    "numero": "CIV",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/L%E2%80%99%C3%82me_du_vin",
+    "title": "L’Âme du vin"
+  },
+  {
+    "numero": "CV",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_Vin_des_chiffonniers",
+    "title": "Le Vin des chiffonniers"
+  },
+  {
+    "numero": "CVI",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_Vin_de_l%E2%80%99assassin",
+    "title": "Le Vin de l’assassin"
+  },
+  {
+    "numero": "CVII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_Vin_du_solitaire",
+    "title": "Le Vin du solitaire"
+  },
+  {
+    "numero": "CVIII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_Vin_des_amants",
+    "title": "Le Vin des amants"
+  },
+  {
+    "numero": "CIX",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/La_Destruction",
+    "title": "La Destruction"
+  },
+  {
+    "numero": "CX",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Une_martyre",
+    "title": "Une Martyre"
+  },
+  {
+    "numero": "CXI",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Femmes_damn%C3%A9es_(%C2%AB_Comme_un_b%C3%A9tail_pensif_sur_le_sable_couch%C3%A9es_%C2%BB)",
+    "title": "Femmes damnées"
+  },
+  {
+    "numero": "CXII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Les_Deux_Bonnes_S%C5%93urs",
+    "title": "Les deux bonnes Sœurs"
+  },
+  {
+    "numero": "CXIII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/La_Fontaine_de_sang",
+    "title": "La Fontaine de sang"
+  },
+  {
+    "numero": "CXIV",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/All%C3%A9gorie",
+    "title": "Allégorie"
+  },
+  {
+    "numero": "CXV",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/La_B%C3%A9atrice",
+    "title": "La Béatrice"
+  },
+  {
+    "numero": "CXVI",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Un_voyage_%C3%A0_Cyth%C3%A8re",
+    "title": "Un Voyage à Cythère"
+  },
+  {
+    "numero": "CXVII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/L%E2%80%99Amour_et_le_Cr%C3%A2ne",
+    "title": "L’Amour et le Crâne"
+  },
+  {
+    "numero": "CXVIII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_Reniement_de_saint_Pierre",
+    "title": "Le Reniement de saint Pierre"
+  },
+  {
+    "numero": "CXIX",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Abel_et_Ca%C3%AFn",
+    "title": "Abel et Caïn"
+  },
+  {
+    "numero": "CXX",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Les_Litanies_de_Satan",
+    "title": "Les Litanies de Satan"
+  },
+  {
+    "numero": "CXXI",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/La_Mort_des_amants",
+    "title": "La Mort des amants"
+  },
+  {
+    "numero": "CXXII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/La_Mort_des_pauvres",
+    "title": "La Mort des pauvres"
+  },
+  {
+    "numero": "CXXIII",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/La_Mort_des_artistes",
+    "title": "La Mort des artistes"
+  },
+  {
+    "numero": "CXXIV",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/La_Fin_de_la_journ%C3%A9e",
+    "title": "La Fin de la journée"
+  },
+  {
+    "numero": "CXXV",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_R%C3%AAve_d%E2%80%99un_curieux",
+    "title": "Le Rêve d’un curieux"
+  },
+  {
+    "numero": "CXXVI",
+    "link": "http://fr.wikisource.org//wiki/Les_Fleurs_du_mal/1861/Le_Voyage",
+    "title": "Le Voyage"
+  }
+]

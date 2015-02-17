@@ -1,0 +1,8 @@
+artoo.scrape('#ws-summary td:first-child', {
+	title : function($){
+		return $(this).text();
+	},
+	link : function($){
+		return  'http://fr.wikisource.org'+$(this).find('a').attr('href');
+	}
+}, artoo.savePrettyJson);

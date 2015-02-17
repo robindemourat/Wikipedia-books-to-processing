@@ -1,0 +1,397 @@
+{
+    "meta": {
+        "auteur": "Émile Durkheim",
+        "annee": "1912",
+        "url": "http://fr.wikisource.org/wiki/Les_Formes_%C3%A9l%C3%A9mentaires_de_la_vie_religieuse"
+    },
+    "content": [
+        {
+            "title": "OBJET DE LA RECHERCHE",
+            "chapters": [
+                {
+                    "title": "Sociologie religieuse et théorie de la connaissance",
+                    "link": "http://fr.wikisource.org/wiki/Les_Formes_%C3%A9l%C3%A9mentaires_de_la_vie_religieuse/Objet_de_la_recherche",
+                    "subchapters-structure": [
+                        {
+                            "title": "I. — Objet principal du livre : analyse de la religion la plus simple qui soit connue, en vue de déterminer les formes élémentaires de la vie religieuse. — Pourquoi elles sont plus faciles à atteindre et à expliquer à travers les religions primitives"
+                        },
+                        {
+                            "title": "II. — Objet secondaire de la recherche : genèse des notions fondamentales de la pensée ou catégories. — Raisons de croire qu’elles ont une origine religieuse et, par suite, sociale. — Comment, de ce point de vue, on entrevoit un moyen de renouveler la théorie de la connaissance"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "LIVRE PREMIER : QUESTIONS PRÉLIMINAIRES",
+            "chapters": [
+                {
+                    "link": "http://fr.wikisource.org/wiki/Les_Formes_%C3%A9l%C3%A9mentaires_de_la_vie_religieuse/Livre_I/Chapitre_1",
+                    "title": "Chapitre premier : DÉFINITION DU PHÉNOMÈNE RELIGIEUX ET DE LA RELIGION",
+                    "subchapters-structure": [
+                        {
+                            "title": "Utilité d’une définition préalable de la religion ; méthode à suivre pour procéder à cette définition. — Pourquoi il convient d’examiner d’abord les définitions usuelles"
+                        },
+                        {
+                            "title": "I. — La religion définie par le surnaturel et le mystérieux. — Critique : la notion du mystère n’est pas primitive"
+                        },
+                        {
+                            "title": "II. La religion définie en fonction de l’idée de Dieu ou d’être spirituel. — Religions sans dieux. — Dans les religions déistes, rites qui n’impliquent aucune idée de divinité"
+                        },
+                        {
+                            "title": "III. — Recherche d’une définition positive. Distinction des croyances et des rites. — Définition des croyances. — Première caractéristique : division bipartite des choses en sacrées et en profanes. — Caractères distinctifs de cette division. — Définition des rites en fonction des croyances. — Définition de la religion."
+                        },
+                        {
+                            "title": "IV. — Nécessité d’une autre caractéristique pour distinguer la magie de la religion. — L’idée d’Église. Les religions individuelles excluent-elles l’idée d’Église"
+                        }
+                    ]
+                },
+                {
+                    "title": "Chapitre 2 : LES PRINCIPALES CONCEPTIONS DE LA RELIGION ÉLÉMENTAIRE",
+                    "link": "http://fr.wikisource.org/wiki/Les_Formes_%C3%A9l%C3%A9mentaires_de_la_vie_religieuse/Livre_I/Chapitre_2",
+                    "subchapters-structure": [
+                        {
+                            "title": "Distinction de l’animisme et du naturisme"
+                        },
+                        {
+                            "title": "I. — Les trois thèses de l’animisme :  ° Genèse de l’idée d’âme ;  ° Formation de l’idée d’esprit ;  ° Transformation du culte des esprits en culte de la nature"
+                        },
+                        {
+                            "title": "II. — Critique de la première thèse. — Distinction de l’idée d’âme et de l’idée double. — Le rêve ne rend pas compte de l’idée"
+                        },
+                        {
+                            "title": "III. — Critique de la seconde thèse. — La mort n’explique pas la transformation de l’âme en esprit. — Le culte des âmes des morts n’est pas primitif"
+                        },
+                        {
+                            "title": "IV. — Critique de la troisième thèse. — L’instinct anthropomorphique. Critique qu’en a faite Spencer ; réserves à ce sujet. Examen des faits par lesquels on croit prouver l’existence de cet instinct. — Différence entre l’âme et les esprits de la nature. L’anthropomorphisme religieux n’est pas primitif"
+                        },
+                        {
+                            "title": "V. — Conclusion : l’animisme réduit la religion à n’être qu’un système d’hallucinations"
+                        }
+                    ]
+                },
+                {
+                    "title": "Chapitre 3 : LES PRINCIPALES CONCEPTIONS DE LA RELIGION ÉLÉMENTAIRE (suite)",
+                    "link": "http://fr.wikisource.org/wiki/Les_Formes_%C3%A9l%C3%A9mentaires_de_la_vie_religieuse/Livre_I/Chapitre_3",
+                    "subchapters-structure": [
+                        {
+                            "title": "Historique de la théorie"
+                        },
+                        {
+                            "title": "I. — Exposé du naturisme d’après Max Müller"
+                        },
+                        {
+                            "title": "II. — Si la religion a pour objet d’exprimer les forces naturelles, comme elle les exprime d’une manière erronée, on ne comprend pas qu’elle ait pu se maintenir. — Prétendue distinction entre la religion et la mythologie"
+                        },
+                        {
+                            "title": "III. — Le naturisme n’explique pas la distinction des choses en sacrées et en profanes"
+                        }
+                    ]
+                },
+                {
+                    "title": "Chapitre 4 : Le TOTÉMISME COMME RELIGION ÉLÉMENTAIRE - histoire de la question, méthode pour la traiter",
+                    "link": "http://fr.wikisource.org/wiki/Les_Formes_%C3%A9l%C3%A9mentaires_de_la_vie_religieuse/Livre_I/Chapitre_4",
+                    "subchapters-structure": [
+                        {
+                            "title": "I. — Histoire sommaire de la question du totémisme"
+                        },
+                        {
+                            "title": "II. — Raisons de méthode pour lesquelles l’étude portera spécialement sur le totémisme australien. — De la place qui sera faite aux faits américains"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "LIVRE II : LES CROYANCES ÉLÉMENTAIRES",
+            "chapters": [
+                {
+                    "title": "Chapitre premier : LES CROYANCES PROPREMENT TOTÉMIQUES - I. - le totem comme nom et comme emblème",
+                    "link": "http://fr.wikisource.org/wiki/Les_Formes_%C3%A9l%C3%A9mentaires_de_la_vie_religieuse/Livre_II/Chapitre_1",
+                    "subchapters-structure": [
+                        {
+                            "title": "I. — Définition du clan. — Le totem comme nom du clan. — Nature des choses qui servent de totems. — Manières dont est acquis le totem. — Les totems de phratries, de classes matrimoniales"
+                        },
+                        {
+                            "title": "II. — Le totem comme emblème. — Dessins totémiques gravés ou sculptés sur les objets ; tatoués ou dessinés sur les corps"
+                        },
+                        {
+                            "title": "III. — Caractère sacré de l’emblème totémique. — Les churinga. — Le nurtunja. — Le waninga. — Caractère conventionnel des emblèmes totémiques"
+                        }
+                    ]
+                },
+                {
+                    "title": "Chapitre 2 : LES CROYANCES PROPREMENT TOTÉMIQUES (suite) - II. L'animal totémique et l'homme",
+                    "link": "http://fr.wikisource.org/wiki/Les_Formes_%C3%A9l%C3%A9mentaires_de_la_vie_religieuse/Livre_II/Chapitre_2",
+                    "subchapters-structure": [
+                        {
+                            "title": "I. — Caractère sacré des animaux totémiques. — Interdiction de les manger, de les tuer, de cueillir les plantes totémiques. — Tempéraments divers apportés à ces interdictions. — Prohibitions de contact. — Le caractère sacré de l’animal est moins prononcé que celui de l’emblème"
+                        },
+                        {
+                            "title": "II. — L’homme. — Sa parenté avec l’animal ou la plante totémiques. — Mythes divers qui expliquent cette parente. — Le caractère sacré de l’homme est plus apparent sur certains points de l’organisme : le sang, les cheveux, etc. — Comment ce caractère varie avec le sexe et l’âge. — Le totémisme n’est pas une zoolâtrie ni une phytolâtrie"
+                        }
+                    ]
+                },
+                {
+                    "title": "Chapitre 3 : LES CROYANCES PROPREMENT TOTÉMIQUES (suite) - III. Le système cosmogonique du totémisme et la notion de genre",
+                    "link": "http://fr.wikisource.org/wiki/Les_Formes_%C3%A9l%C3%A9mentaires_de_la_vie_religieuse/Livre_II/Chapitre_3",
+                    "subchapters-structure": [
+                        {
+                            "title": "I. — Les classifications des choses par clans, phratries, classes"
+                        },
+                        {
+                            "title": "II. — Genèse de la notion de genre : les premières classifications de choses empruntent leurs cadres à la société. — Différences entre le sentiment des ressemblances et l’idée de genre. — Pourquoi celle-ci est d’origine sociale"
+                        },
+                        {
+                            "title": "III. — Signification religieuse de ces classifications : toutes les choses classées dans un clan participent de la nature du totem et de son caractère sacré. Le système cosmogonique du totémisme. — Le totémisme comme religion tribale"
+                        }
+                    ]
+                },
+                {
+                    "title": "Chapitre 4 : LES CROYANCES PROPREMENT TOTÉMIQUES (fin) - IV. Le totem individuel et le totem sexuel",
+                    "link": "http://fr.wikisource.org/wiki/Les_Formes_%C3%A9l%C3%A9mentaires_de_la_vie_religieuse/Livre_II/Chapitre_4",
+                    "subchapters-structure": [
+                        {
+                            "title": "I. — Le totem individuel comme prénom ; son caractère sacré. — Le totem individuel comme emblème personnel. — Liens entre l’homme et son totem individuel. — Rapports avec le totem collectif"
+                        },
+                        {
+                            "title": "II. — Les totems des groupes sexuels. — Ressemblances et différences avec les totems collectifs et individuels. — Leur caractère tribal"
+                        }
+                    ]
+                },
+                {
+                    "title": "Chapitre 5 : ORIGINE DE CES CROYANCES - I. Examen critique des théories",
+                    "link": "http://fr.wikisource.org/wiki/Les_Formes_%C3%A9l%C3%A9mentaires_de_la_vie_religieuse/Livre_II/Chapitre_5",
+                    "subchapters-structure": [
+                        {
+                            "title": "I. — Théories qui dérivent le totémisme d’une religion antérieure : du culte des ancêtres (Wilken et Tylor) ; du culte de la nature (Jevons). — Critique de ces théories"
+                        },
+                        {
+                            "title": "II. — Théories qui dérivent le totémisme collectif du totémisme individuel. — Origines attribuées par ces théories au totem individuel (Frazer, Boas, Hill Tout). — Invraisemblance de ces hypothèses. — Raisons qui démontrent l’antériorité du totem collectif"
+                        },
+                        {
+                            "title": "III. — Théorie récente de Frazer : le totémisme conceptionnel et local. — Pétition de principe sur laquelle elle repose. — Le caractère religieux du totem est nié. — Le totémisme local n’est pas primitif"
+                        },
+                        {
+                            "title": "IV. — Théorie de Lang : le totem ne serait qu’un nom. — Difficultés pour expliquer de ce point de vue le caractère religieux des pratiques totémiques"
+                        },
+                        {
+                            "title": "V. — Toutes ces théories n’expliquent le totémisme qu’en postulent des notions religieuses qui lui seraient antérieures"
+                        }
+                    ]
+                },
+                {
+                    "title": "Chapitre 6 : ORIGINE DE CES CROYANCES (suite) - II. — La notion de principe ou mana totémique et l’idée de force",
+                    "link": "http://fr.wikisource.org/wiki/Les_Formes_%C3%A9l%C3%A9mentaires_de_la_vie_religieuse/Livre_II/Chapitre_6",
+                    "subchapters-structure": [
+                        {
+                            "title": "I. — La notion de force ou principe totémique. — Son ubiquité. — Son caractère à la fois physique et moral"
+                        },
+                        {
+                            "title": "II. — Conceptions analogues dans d’autres sociétés inférieures. — Les dieux à Samoa. — Le wakan des Sioux, l’orenda des Iroquois, le mana en Mélanésie. — Rapports de ces notions avec le totémisme. — L’Arùnkulta des Arunta"
+                        },
+                        {
+                            "title": "III. — Antériorité logique de la notion de force impersonnelle sur les différentes personnalités mythiques. — Théories récentes qui tendent à admettre cette antériorité"
+                        },
+                        {
+                            "title": "IV. — La notion de force religieuse est le prototype de la notion de force en général"
+                        }
+                    ]
+                },
+                {
+                    "title": "Chapitre 7 : ORIGINE DE CES CROYANCES (fin) - III. — Genèse de la notion de principe ou manu totémique",
+                    "link": "http://fr.wikisource.org/wiki/Les_Formes_%C3%A9l%C3%A9mentaires_de_la_vie_religieuse/Livre_II/Chapitre_7",
+                    "subchapters-structure": [
+                        {
+                            "title": "I. — Le principe totémique est le clan, mais pensé sous des espèces sensibles"
+                        },
+                        {
+                            "title": "II. — Raisons générales pour lesquelles la société est apte à éveiller la sensation du sacré et du divin. — La société comme puissance morale impérative ; la notion d’autorité morale. — La société comme force qui élève l’individu au-dessus de lui-même. — Faits qui prouvent que la société crée du sacré"
+                        },
+                        {
+                            "title": "III. — Raisons spéciales aux sociétés australiennes. — Les deux phases par lesquelles passe alternativement la vie de ces seciétés : dispersion, concentration. — Grande effervescence collective pendant les périodes de concentration. Exemples. Comment l’idée religieuse est née de cette effervescence.Pourquoi la force collective a été pensée sous les espèces du totem : c’est que le totem est l’emblème du clan. — Explication des principales croyances totémiques"
+                        },
+                        {
+                            "title": "IV. — La religion n’est pas un produit de la crainte. — Elle exprime quelque chose de réel. — Son idéalisme essentiel. Cet idéalisme est un caractère général de la mentalité collective. — Explication de l’extériorité des forces religieuses par rapport à leurs substrats. — Du principe la partie vaut le tout"
+                        },
+                        {
+                            "title": "V. — Origine de la notion d’emblème : l’emblématisme, condition nécessaire des représentations collectives. — Pourquoi le clan a emprunté ses emblèmes au règne animal et au règne végétal."
+                        },
+                        {
+                            "title": "VI. — De l’aptitude du primitif à confondre les règnes et les classes que nous distinguons. — Origines de ces confusions. — Comment elles ont frayé la voie aux explications scientifiques. — Elles n’excluent pas la tendance à la distinction et à l’opposition"
+                        }
+                    ]
+                },
+                {
+                    "title": "Chapitre 8 : LA NOTION D'ÂME",
+                    "link": "http://fr.wikisource.org/wiki/Les_Formes_%C3%A9l%C3%A9mentaires_de_la_vie_religieuse/Livre_II/Chapitre_8",
+                    "subchapters-structure": [
+                        {
+                            "title": "I. — Analyse de l’idée d’âme dans les sociétés australiennes"
+                        },
+                        {
+                            "title": "II. — Genèse de cette notion. — La doctrine de la réincarnation d’après Spencer et Gillen : elle implique que l’âme est une parcelle du principe totémique. — Examen des faits rapportés par Strehlow ; ils confirment la nature totémique de l’âme"
+                        },
+                        {
+                            "title": "III. — Généralité de la doctrine de la réincarnation. — Faits divers à l’appui de la genèse proposée"
+                        },
+                        {
+                            "title": "IV. — L’antithèse de l’âme et du corps : ce qu’elle a d’objectif. — Rapports de l’âme individuelle et de l’âme collective. — L’idée d’âme n’est pas chronologiquement postérieure à l’idée de mana."
+                        },
+                        {
+                            "title": "V. — Hypothèse pour expliquer la croyance à la survie"
+                        },
+                        {
+                            "title": "VI. — L’idée d’âme et l’idée de personne ; éléments impersonnels de la personnalité"
+                        }
+                    ]
+                },
+                {
+                    "title": "Chapitre 9 : LA NOTION D'ESPRITS ET DE DIEUX",
+                    "link": "http://fr.wikisource.org/wiki/Les_Formes_%C3%A9l%C3%A9mentaires_de_la_vie_religieuse/Livre_II/Chapitre_9",
+                    "subchapters-structure": [
+                        {
+                            "title": "I. — Différence entre l’âme et l’esprit. — Les âmes des ancêtres mythiques sont des esprits, ayant des fonctions déterminées. — Rapports entre l’esprit ancestral, l’âme individuelle et le totem individuel. — Explication de ce dernier. — Sa signification sociologique"
+                        },
+                        {
+                            "title": "II. — Les esprits de la magie"
+                        },
+                        {
+                            "title": "III. — Les héros civilisateurs"
+                        },
+                        {
+                            "title": "IV. — Les grands dieux. — Leur origine. — Leur rapport avec l’ensemble du système totémique. — Leur caractère tribal et international"
+                        },
+                        {
+                            "title": "V. — Unité du système totémique"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "LIVRE 3 : LES PRINCIPALES ATTITUDES RITUELLES",
+            "chapters": [
+                {
+                    "title": "Chapitre premier : LE CULTE NÉGATIF ET SES FONCTIONS - LES RITES ASCÉTIQUES",
+                    "link": "http://fr.wikisource.org/wiki/Les_Formes_%C3%A9l%C3%A9mentaires_de_la_vie_religieuse/Livre_III/Chapitre_1",
+                    "subchapters-structure": [
+                        {
+                            "title": "I. — Le système des interdits — Interdits magiques et religieux. Interdits entre choses sacrées d’espèces différentes. Interdits entre sacré et profane. — Ces derniers sont à la base du culte négatif. — Principaux types de ces interdits ; leur réduction à deux types essentiels"
+                        },
+                        {
+                            "title": "II. — L’observance des interdits modifie l’état religieux des individus. — Cas où cette efficacité fut particulièrement apparente : les pratiques ascétiques. — Efficacité religieuse de la douleur. — Fonction sociale de l’ascétisme"
+                        },
+                        {
+                            "title": "III. — Explication du système des interdits : antagonisme du sacré et du profane, contagiosité du sacré"
+                        },
+                        {
+                            "title": "IV. — Causes de cette contagiosité. — Elle ne peut s’expliquer par les lois de l’association des idées. — Elle résulte de l’extériorité des forces religieuses par rapport à leurs substrats. — Intérêt logique de cette propriété des forces religieuses"
+                        }
+                    ]
+                },
+                {
+                    "title": "Chapitre 2 : LE CULTE POSITIF - I. — Les éléments du sacrifice",
+                    "link": "http://fr.wikisource.org/wiki/Les_Formes_%C3%A9l%C3%A9mentaires_de_la_vie_religieuse/Livre_III/Chapitre_2",
+                    "subchapters-structure": [
+                        {
+                            "title": "La cérémonie de l’Intichiuma dans les tribus de l’Australie centrale. — Formes diverses qu’elle présente"
+                        },
+                        {
+                            "title": "I. — Forme Arunta. — Deux phases. — Analyse de la première : visite aux lieux saints, dispersion de poussière sacrée, effusions de sang, etc., pour assurer la reproduction de l’espèce totémique."
+                        },
+                        {
+                            "title": "II. — Deuxième phase : consommation rituelle de la plante ou de l’animal totémique"
+                        },
+                        {
+                            "title": "III. — Interprétation de la cérémonie complète. — Le second rite consiste en une communion alimentaire. — Raison de cette communion"
+                        },
+                        {
+                            "title": "IV. — Les rites de la première phase consistent en oblations. — Analogies avec les oblations sacrificielles. — L’Intichiuma contient donc les deux éléments du sacrifice. — Intérêt de ces faits pour la théorie du sacrifice"
+                        },
+                        {
+                            "title": "V. — De la prétendue absurdité des oblations sacrificielles. — Comment elles s’expliquent : dépendance des êtres sacrés par rapport à leurs fidèles. — Explication du cercle dans lequel paraît se mouvoir le sacrifice. — Origine de la périodicité des rites positifs"
+                        }
+                    ]
+                },
+                {
+                    "title": "Chapitre 3 : LE CULTE POSITIF (suite) - II. — Les rites mimétiques et le principe de causalité",
+                    "link": "http://fr.wikisource.org/wiki/Les_Formes_%C3%A9l%C3%A9mentaires_de_la_vie_religieuse/Livre_III/Chapitre_3",
+                    "subchapters-structure": [
+                        {
+                            "title": "I. — Nature des rites mimétiques. — Exemples de cérémonies où ils sont employés pour assurer la fécondité de l’espèce"
+                        },
+                        {
+                            "title": "II. — Ils reposent sur le principe : le semblable produit le semblable. Examen de l’explication qu’en donne l’école anthropologique. — Raisons qui font qu’on imite l’animal ou la plante. — Raisons qui font attribuer à ces gestes une efficacité physique. — La foi. — En quel sens elle est fondée sur l’expérience. — Les principes de la magie sont nés dans la religion"
+                        },
+                        {
+                            "title": "III. — Le principe précédent considéré comme un des premiers énoncés du principe de causalité. — Conditions sociales dont ce dernier dépend. — L’idée de force impersonnelle, de pouvoir, est d’origine sociale. — La nécessité du jugement causal expliquée par l’autorité inhérente aux impératifs sociaux"
+                        }
+                    ]
+                },
+                {
+                    "title": "Chapitre 4 : LE CULTE POSITIF (suite) - II. — Les rites représentatifs ou commémoratifs",
+                    "link": "http://fr.wikisource.org/wiki/Les_Formes_%C3%A9l%C3%A9mentaires_de_la_vie_religieuse/Livre_III/Chapitre_4",
+                    "subchapters-structure": [
+                        {
+                            "title": "I. — Rites représentatifs avec efficacité physique. — Leurs rapports avec les cérémonies antérieurement décrites. — L’action qu’ils produisent est toute morale"
+                        },
+                        {
+                            "title": "II. — Rites représentatifs sans efficacité physique. — Ils confirment les résultats précédents. — L’élément récréatif de la religion ; son importance ; ses raisons d’être. — La notion de fête"
+                        },
+                        {
+                            "title": "III. — Ambiguïté fonctionnelle des différentes cérémonies étudiées ; elles se substituent les unes aux autres. — Comment cette ambiguïté confirme la théorie proposée"
+                        }
+                    ]
+                },
+                {
+                    "title": "Chapitre 5 : LES RITES PIACULAIRES ET L’AMBIGUÏTÉ DE LA NOTION DU SACRÉ",
+                    "link": "http://fr.wikisource.org/wiki/Les_Formes_%C3%A9l%C3%A9mentaires_de_la_vie_religieuse/Livre_III/Chapitre_5",
+                    "subchapters-structure": [
+                        {
+                            "title": "Définition du rite piaculaire"
+                        },
+                        {
+                            "title": "I. — Les rites positifs du deuil. — Description de ces rites."
+                        },
+                        {
+                            "title": "II. — Comment ils s’expliquent. — Ils ne sont pas une manifestation de sentiments privés. — La méchanceté prêtée à l’âme du mort ne peut pas davantage en rendre compte. — Ils tiennent à l’état d’esprit dans lequel se trouve le groupe. — Analyse de cet état. — Comment il prend fin par le deuil. — Changements parallèles dans la manière dont l’âme du mort est conçue."
+                        },
+                        {
+                            "title": "III. — Autres rites piaculaires : à la suite d’un deuil public, d’une récolte insuffisante, d’une sécheresse, d’une aurore astrale. — Rareté de ces rites en Australie. — Comment ils s’expliquent."
+                        },
+                        {
+                            "title": "IV. — Les deux formes du sacré : le pur et l’impur. — Leur antagonisme. — Leur parenté. — Ambiguïté de la notion du sacré. — Explication de cette ambiguïté. — Tous les rites présentent le même caractère"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "CONCLUSION",
+            "chapters": [
+                {
+                    "title": "CONCLUSION",
+                    "link": "http://fr.wikisource.org/wiki/Les_Formes_%C3%A9l%C3%A9mentaires_de_la_vie_religieuse/Conclusion",
+                    "subchapters-structure": [
+                        {
+                            "title": "Dans quelle mesure les résultats obtenus peuvent être généralisés."
+                        },
+                        {
+                            "title": "I. — La religion s’appuie sur une expérience bien fondée, mais non privilégiée. Nécessité d’une science pour atteindre la réalité qui fonde cette expérience. Quelle est cette réalité : les groupements humains. — Sens humain de la religion. — De l’objection qui oppose la société idéale et la société réelle. — Comment s’expliquent, dans cette théorie, l’individualisme et le cosmopolitisme religieux."
+                        },
+                        {
+                            "title": "II. — Ce qu’il y a d’éternel dans la religion. — Du conflit entre la religion et la science ; il porte uniquement sur la fonction spéculative de la religion. — Ce que cette fonction paraît appelée à devenir."
+                        },
+                        {
+                            "title": "III. — Comment la société peut-elle être une source de pensée logique, c’est-à-dire conceptuelle ? Définition du concept : ne se confond pas avec l’idée générale ; se caractérise par son impersonnalité, sa communicabilité. — Il a une origine collective. L’analyse de son contenu témoigne dans le même sens. — Les représentations collectives comme notions-types auxquelles les individus participent. — De l’objection d’après laquelle elles ne seraient impersonnelles qu’à condition d’être vraies. — La pensée conceptuelle est contemporaine de l’humanité."
+                        },
+                        {
+                            "title": "IV. — Comment les catégories expriment des choses sociales. — La catégorie par excellence est le concept de totalité qui ne peut être suggéré que par la société. — Pourquoi les relations qu’expriment les catégories ne pouvaient devenir conscientes que dans la société. — La société n’est pas un être alogique. — Comment les catégories tendent à se détacher des groupements géographiques déterminés.Unité de la science, d’une part, de la morale et de la religion de l’autre. — Comment la société rend compte de cette unité. — Explication du rôle attribué à la société : sa puissance créatrice. — Répercussions de la sociologie sur la science de l’homme."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
